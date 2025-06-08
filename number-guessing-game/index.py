@@ -28,5 +28,5 @@ while True:
 print ("Thanks for playing!") 
 
 
-# Can be updated to check whether wnter number or not. Use Exceptions
+# Can be updated to check whether imput is a number or not. Use Exceptions
     
