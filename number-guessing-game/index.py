@@ -1,4 +1,5 @@
 # Generate a random number
+
 # Loop
 # Ask the user to make a quess
 # Check if the number is higher or lower than the user's guess
@@ -25,4 +26,7 @@ while True:
         break
 
 print ("Thanks for playing!") 
+
+
+# Can be updated to check whether wnter number or not. Use Exceptions
     
